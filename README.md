@@ -25,7 +25,3 @@ This guide walks you through setting up and running the project on your local ma
 2. After installation, you should see the `node_modules` folder in the sidebar.
 3. **Start the frontend** and admin panel by running `npm start`. The project will open in your default web browser.
 
-## Additional Resources
-
-For more detailed instructions and video tutorials, visit [our YouTube channel](https://www.youtube.com/@GreatStackDev/videos).
-
